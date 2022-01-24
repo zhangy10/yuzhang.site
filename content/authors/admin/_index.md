@@ -1,55 +1,52 @@
+
+
+
 ---
 # Display name
-title: Nelson Bighetti
+title: Yu Zhang
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: "y.zhang AT mq.edu.au"
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: School of Computing, Macquarie University
+  url: "https://www.mq.edu.au/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include Mobile Computing, On-device Machine Learning, Wireless Sensor Network, Embedded Systems, Internet of Things, and Big Data Analytics.
 
-interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+# interests: test
 
-education:
-  courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+
+#veducation:
+
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
+
+
+
 social:
-- icon: envelope
-  icon_pack: fas
-  link: '/#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com.au/citations?hl=en&user=NIBOisYAAAAJ&view_op=list_works&gmla=AJsN-F58MbHXSaV4U1r3BT-hRlP5fyzVjDmrAYOeI-Y3Va1ySH-159fXSdRAoIOlG3-rGJc-y9RBEwB1JU_7WKle0P0mjv5icO6lpUC4j8fJqTfeS6AfNGXq-fSvZes-IIwpgCYSmZYJtiNr6hjL1CtxOGAfpQv2BA
+- icon: orcid
+  icon_pack: fab
+  link: https://orcid.org/0000-0003-1632-167X
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/zhangy10/
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/zhangy10
+  
+  
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -67,8 +64,23 @@ highlight_name: false
 user_groups:
 - Researchers
 - Visitors
+
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I am currently a Postdoctoral Fellow in Department of Computing at [Macquarie University](https://www.mq.edu.au/), Sydney, Australia. I am supervised by [Prof. Tao Gu](https://taogu.site/). I obtained his Ph.D. in Computer Science from [RMIT University](https://www.rmit.edu.au/), and B.Eng. in Software Engineering from Southwest University for Nationalities, and experienced M.Eng. in Distributed Computing from [the University of Melbourne](https://www.unimelb.edu.au/) from 2015 to 2016. My research interests mainly focus on the field of mobile computing, wireless sensor network, embedded system, on-device machine learning, and Internet of Things. Also, I was a Senior Software Engineer with solid working experience in IT industry. I am a member of ACM and IEEE. For more information, please 
+
+
+The long-term goal of my research aims to explore innovative ways of smart sensing and embedded AI to facilitate the building of novel applications. My research interests include Mobile Computing, On-device Machine Learning, Wireless Sensor Network, Embedded Systems, Internet of Things, and Big Data Analytics. Please visit my [reserch profile](https://researchers.mq.edu.au/en/persons/yu-zhang) page for more details. We mainly publish our work in journals and conferences, including [ACM/IEEE ToN](https://dl.acm.org/journal/ton), [IEEE JSAC](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=49), [IEEE TMC](https://www.computer.org/csdl/journal/tm),  [MobiCom](https://www.sigmobile.org/mobicom/2021/), [SenSys](http://sensys.acm.org/2020/), [UbiComp](https://ubicomp.org/ubicomp2020/), [IPSN](https://ipsn.acm.org/2020/), and [INFOCOM](https://infocom2020.ieee-infocom.org/).
+
+
+
+
+
+<!--<meta http-equiv="refresh" content="0;url= https://researchers.mq.edu.au/en/persons/yu-zhang ">-->
+
+
+
+<!--Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.-->
+<!---->
+<!--Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.-->
