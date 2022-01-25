@@ -72,10 +72,11 @@ I am currently a Postdoctoral Fellow in Department of Computing at [Macquarie Un
 
 
 
-My long-term research goal aims to explore innovative ways of smart sensing and embedded AI to facilitate the building of novel applications. My research interests include Mobile Computing, On-device Machine Learning, Wireless Sensor Network, Embedded AI, Internet of Things, and Big Data Analytics. I was also a Senior Software Engineer with solid working experience in IT industry. Please visit my [Reserch Profile](https://researchers.mq.edu.au/en/persons/yu-zhang) page for more details. We mainly publish our work in journals and conferences, including [ACM/IEEE ToN](https://dl.acm.org/journal/ton), [IEEE JSAC](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=49), [IEEE TMC](https://www.computer.org/csdl/journal/tm),  [MobiCom](https://www.sigmobile.org/mobicom/2021/), [SenSys](http://sensys.acm.org/2020/), [UbiComp](https://ubicomp.org/ubicomp2020/), [IPSN](https://ipsn.acm.org/2020/), and [INFOCOM](https://infocom2020.ieee-infocom.org/).
+My long-term research goal aims to explore innovative ways of smart sensing and embedded AI to facilitate the building of novel applications. My research interests include Mobile Computing, On-device Machine Learning, Wireless Sensor Network, Embedded AI, Internet of Things, and Big Data Analytics. I was also a Senior Software Engineer with solid working experience in IT industry. Please visit the below reserch profile page for more details. We mainly publish our work in journals and conferences, including [ACM/IEEE ToN](https://dl.acm.org/journal/ton), [IEEE JSAC](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=49), [IEEE TMC](https://www.computer.org/csdl/journal/tm),  [MobiCom](https://www.sigmobile.org/mobicom/2021/), [SenSys](http://sensys.acm.org/2020/), [UbiComp](https://ubicomp.org/ubicomp2020/), [IPSN](https://ipsn.acm.org/2020/), and [INFOCOM](https://infocom2020.ieee-infocom.org/).
 
 
-
+### SEE ALSO:
+[Reserch Profile](https://researchers.mq.edu.au/en/persons/yu-zhang)
 
 
 <!--<meta http-equiv="refresh" content="0;url= https://researchers.mq.edu.au/en/persons/yu-zhang ">-->
