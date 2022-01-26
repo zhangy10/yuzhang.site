@@ -68,7 +68,7 @@ user_groups:
 ---
 
 
-I am currently a Postdoctoral Associate in School of Computing at [Macquarie University](https://www.mq.edu.au/), Sydney, Australia. I am supervised by [Prof. Tao Gu](https://taogu.site/). I obtained his Ph.D. in Computer Science from [RMIT University](https://www.rmit.edu.au/), and B.Eng. in Software Engineering from Southwest University for Nationalities, and experienced M.Eng. in Distributed Computing from [the University of Melbourne](https://www.unimelb.edu.au/) from 2015 to 2016. I am a member of ACM and IEEE.
+I am currently a Postdoctoral Associate in School of Computing at [Macquarie University](https://www.mq.edu.au/), Sydney, Australia. I am working in the IoT research lab leaded by [Prof. Tao Gu](https://taogu.site/). I obtained my Ph.D. in Computer Science from [RMIT University](https://www.rmit.edu.au/), and B.Eng. in Software Engineering from Southwest University for Nationalities, and experienced M.Eng. in Distributed Computing from [the University of Melbourne](https://www.unimelb.edu.au/) from 2015 to 2016. I am a member of ACM and IEEE.
 
 
 
