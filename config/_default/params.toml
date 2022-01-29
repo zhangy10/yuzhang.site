@@ -274,7 +274,8 @@ plugins_js  = []
 ## Marketing
 ############################
 [marketing]
-  google_analytics = "G-C1WSN9XL60"
+#  G-C1WSN9XL60 ?
+  google_analytics = "G-5YW7SFG1BQ"
   google_tag_manager = "GTM-T8RSGP6"
 
 ############################
