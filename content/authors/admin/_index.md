@@ -9,7 +9,7 @@ title: Yu Zhang
 superuser: true
 
 # Role/position
-role: "Postdoctoral Associate <br/> y.zhang AT mq.edu.au"
+role: "Lecturer <br/> y.zhang AT mq.edu.au"
 
 # Organizations/Affiliations
 organizations:
@@ -68,11 +68,11 @@ user_groups:
 ---
 
 
-I am currently a Postdoctoral Associate in School of Computing at [Macquarie University](https://www.mq.edu.au/), Sydney, Australia. I am working in the IoT research lab led by [Prof. Tao Gu](https://taogu.site/). I obtained my Ph.D. in Computer Science from [RMIT University](https://www.rmit.edu.au/), and B.Eng. in Software Engineering from Southwest University for Nationalities, and experienced M.Eng. in Distributed Computing from [the University of Melbourne](https://www.unimelb.edu.au/). I am a member of ACM and IEEE.
+I am currently a Lecturer in School of Computing at [Macquarie University](https://www.mq.edu.au/), Sydney, Australia. I am working in the IoT research lab led by [Prof. Tao Gu](https://taogu.site/). I obtained my Ph.D. in Computer Science from [RMIT University](https://www.rmit.edu.au/), and B.Eng. in Software Engineering from Southwest University for Nationalities, and experienced M.Eng. in Distributed Computing from [the University of Melbourne](https://www.unimelb.edu.au/). I am a member of ACM and IEEE.
 
 
 
-My long-term research goal aims to explore innovative ways of smart sensing and embedded AI to facilitate the building of novel applications. My research interests broadly lie in [Cyber-physical Systems]() in the field of Mobile Computing, On-device Machine Learning, Embedded AI, Drone Systems, Wireless Sensor Networks, Internet of Things, and Big Data Analytics. I was also a Senior Software Engineer with solid working experience in IT industry. Please visit the below reserch profile page for more details. We mainly publish our work in journals and conferences, including [ACM/IEEE ToN](https://dl.acm.org/journal/ton), [IEEE JSAC](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=49), [IEEE TMC](https://www.computer.org/csdl/journal/tm),  [MobiCom](https://www.sigmobile.org/mobicom/2021/), [SenSys](http://sensys.acm.org/2020/), [UbiComp](https://ubicomp.org/ubicomp2020/), [IPSN](https://ipsn.acm.org/2020/), and [INFOCOM](https://infocom2020.ieee-infocom.org/).
+My long-term research goal aims to explore innovative ways of smart sensing and embedded AI to facilitate the building of novel applications. My research interests broadly lie in [Cyber-physical Systems]() in the field of Mobile and Ubiquitous Computing, On-device Machine Learning, Embedded and Edge AI, Drone Systems, Wireless Sensor Networks, Internet of Things, and AI-based IoT Data Analytics. I was also a Senior Software Engineer with solid working experience in IT industry. Please visit the below reserch profile page for more details. We mainly publish our work in conferences and journals, including [MobiCom](https://www.sigmobile.org/mobicom/2021/), [SenSys](http://sensys.acm.org/2020/), [UbiComp](https://ubicomp.org/ubicomp2020/), [IPSN](https://ipsn.acm.org/2020/),  [INFOCOM](https://infocom2020.ieee-infocom.org/), [ACM/IEEE ToN](https://dl.acm.org/journal/ton), [IEEE JSAC](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=49), and [IEEE TMC](https://www.computer.org/csdl/journal/tm).
 
 
 ### News:
