@@ -82,6 +82,10 @@ My long-term research goal aims to explore innovative ways of smart sensing and 
 
 
 ### News:
+
+Please check out [our exciting Internet of Things (IoT) program](https://www.mq.edu.au/study/find-a-course/courses/master-of-information-technology-in-internet-of-things) and study with us.
+
+
 Please check [Here](https://taogu.site/) for the latest news.
 
 
